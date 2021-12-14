@@ -1,4 +1,4 @@
-.TH hsh "December 13, 2021" "simple_shell General Commands Manual"
+.TH _hsh_ "December 13, 2021" "simple_shell General Commands Manual"
 
 .SH NAME
 
@@ -14,7 +14,7 @@
 
 .SH DESCRIPTION
 
-simple_shell is a command line interpreter, or shell, in the tradition of the first Unix shell written by Ken Thompson. This shell is intentionally minimalistic, yet includes the basic functionality of a traditional Unix-like command line interface. simple_shell is desgined to run on the linux environment.
+simple_shell is a command line interpreter, or shell, in the tradition of the first Unix shell written by Ken Thompson. This shell is intentionally minimalistic, yet includes the basic functionality of a traditional Unix-like command line interface. simple_shell is designed to run on the linux environment.
 
 
 .SH OVERVIEW
@@ -63,7 +63,7 @@ exit - To exit out of the shell user can utilize exit. Exits program with status
 signal_c - Ignore input signal Ctrl + C
 
 .SH BUGS
-No known bugs at this writing (November 2, 2020).
+No known bugs at this writing (December 13, 2021).
 Please report any issues to the authors.
 
 .SH AUTHOR
